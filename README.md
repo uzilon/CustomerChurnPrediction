@@ -20,7 +20,7 @@ ConnectTel Telecom Company faces the pressing need to address customer churn, wh
 
 ## Project Objective
 
-This project aims aims to develop a robust customer churn prediction system for which will enable ConnectTel to reduce customer attrition, enhance customer loyalty, and maintain a competitive edge
+This project aims to develop a robust customer churn prediction system for which will enable ConnectTel to reduce customer attrition, enhance customer loyalty, and maintain a competitive edge
 
 ## Data Sources 
 
@@ -45,7 +45,7 @@ Univariate, Bivariate and Multivariate Data Analysis was carried out and Key Ins
 - 55% for the most of the customers were on a month to month contract
 - 34% for the most of the customers used electronic check
 
-### Univariate Analysis
+### Bivariate Analysis
 Most of the customer that churned
 
 - Used fibre optics
