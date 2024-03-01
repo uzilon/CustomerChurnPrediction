@@ -34,16 +34,16 @@ Univariate, Bivariate and Multivariate Data Analysis was carried out and Key Ins
 
 ### Univariate Analysis
 - Total number of records was 7043, out of which they recorded a 26% (1864) churning
-- Most of the Customers (83%) were not Senior Citizens
-- Most of the Customers (70%) had no Dependents
-- Most of the Customers (90%) had Phone Service
-- Most of the Customers (43%) use fibre optics for internet service
-- 49% for the most of the customers had no online security
-- 44% for the most of the customers had no online backup
-- 44% for the most of the customers had no Device Protection
-- 49% for the most of the customers had no tech support
-- 55% for the most of the customers were on a month to month contract
-- 34% for the most of the customers used electronic check
+- Most Customers (83%) were not Senior Citizens
+- Most Customers (70%) had no Dependents
+- Most Customers (90%) had Phone Service
+- Most Customers (43%) use fibre optics for internet service
+- 49% for most of the customers had no online security
+- 44% for most of the customers had no online backup
+- 44% for most of the customers had no Device Protection
+- 49% for most of the customers had no tech support
+- 55% for most of the customers were on a month to month contract
+- 34% for most of the customers used electronic check
 
 ### Bivariate Analysis
 Most of the customer that churned
